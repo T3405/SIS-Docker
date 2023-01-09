@@ -2,7 +2,7 @@
 Docker container for <https://jackhack96.github.io/logic-synthesis/sis.html>
 
 ### Usage
-Clone repo
+Building the image
 ```bash
 git clone https://github.com/T3405/SIS-Docker.git
 cd SIS-Docker
